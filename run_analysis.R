@@ -12,7 +12,7 @@
 ## Output:
 ##  Creates a text file tidy_data2.txt
 ##
-run_analysis <- function(dir) {
+run_analysis <- function(dir="UCI HAR Dataset") {
   
   ## Read training dataset
   s_train <- read.table(paste0(dir, "/train/subject_train.txt"))
