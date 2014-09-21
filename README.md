@@ -4,6 +4,7 @@ An R script *run_analysis.R* has been created for the project assignment.
 The input and output for the script is:  
 Input:  
  *dir* - name of directory where UCI HAR Dataset resides  
+ default value of *dir* is *UCI HAR Dataset*  
 Output:  
 Writes out a text file *tidy_data2.txt*  
 
