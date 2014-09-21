@@ -124,11 +124,11 @@ Only the set of variables that were then used in the *run_analysis.R* script wer
 The original description can be found in   
 Human Activity Recognition Using Smartphones Dataset  
 Version 1.0  
-==================================================================  
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.  
 Smartlab - Non Linear Complex Systems Laboratory  
 DITEN - Università degli Studi di Genova.  
 Via Opera Pia 11A, I-16145, Genoa, Italy.  
 activityrecognition@smartlab.ws  
 www.smartlab.ws  
-==================================================================  
+ 
